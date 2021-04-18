@@ -14,6 +14,7 @@ In the overview below you will find my most recent work experience:
 Languages & Technologies: `React`, `React Native`, `Apollo GraphQL`, `NextJS`, `Redux`, `Node.js`, `Cypress`, `Jest` \
 Featured Projects: [Palqee](https://www.palqee.com), [Vysta](https://www.getvysta.com/), [Descola](https://descola.org/)
 <br/>
+<br/>
 
 [<img align="left" height="124px" width="124px" alt="Seeds.no" src="https://raw.githubusercontent.com/chamatt/chamatt/main/who_app_logo.png?s=200"/>](https://whoapp.com.br/)
 
