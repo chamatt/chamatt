@@ -1,7 +1,7 @@
 ### Hi there 👋
-- 🔭 I'm a fullstack developer currently working at [Nextly.team](https://nextly.team/)/[Seeds.no](https://seeds.no/) with over three years of experience.
+- 🔭 I'm a full-stack developer currently working at [Nextly.team](https://nextly.team/)/[Seeds.no](https://seeds.no/) with over three years of experience.
 - 🌱 I've worked on several projects over the years for international clients, you can check out some of them at my [personal portfolio](https://chamatt.dev/#professional-projects).
-- ⚡ At my current job I work mainly with the a React, React Native and Node.js stack, along with it's frameworks (e.g. Next.js, Apollo, Adonis, etc). Besides my professional work, I take a personal interest in native iOS and MacOS development using SwiftUI.
+- ⚡ At my current job I work mainly with a React, React Native and Node.js stack, along with its frameworks (e.g. Next.js, Apollo, Adonis, etc). Besides my professional work, I take a personal interest in native iOS and MacOS development using SwiftUI.
 - 💬 You can get in touch with me at [LinkedIn](https://www.linkedin.com/in/matheusdelunardo/).
 
 ### Work Experience
@@ -47,4 +47,4 @@ Languages & Technologies: `Javascript`, `PHP`, `React`, `Redux`, `HTML`, `CSS` \
 
 Please find me on [LinkedIn](https://www.linkedin.com/in/roaldnefs/) for a more detailed description of my full work experience, education and certification.
 
-You can also checkout my personal portfolio to know more about me and projects I've worked on: [chamatt.dev](chamatt.dev)
+You can also check out my portfolio to know more about me and projects I've worked on: [chamatt.dev](chamatt.dev)
