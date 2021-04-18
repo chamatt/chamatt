@@ -24,6 +24,7 @@ Description: A medical appointment scheduler app \
 Languages & Technologies: `React Native`, `Redux`, `Expo`\
 App: In a few days ~[AppStore]() / [PlayStore]()~
 <br/>
+<br/>
 
 [<img align="left" height="124px" width="124px" alt="Seeds.no" src="https://raw.githubusercontent.com/chamatt/chamatt/main/ketchapp_logo.jpeg?s=200"/>](https://www.instagram.com/ketchapp_br/)
 
@@ -32,6 +33,7 @@ App: In a few days ~[AppStore]() / [PlayStore]()~
 Description: A restaurant ordering app \
 Languages & Technologies: `React`, `PWA`, `Firebase`\
 App: The project is dead for now (due to the pandemic)
+<br/>
 <br/>
 
 [<img align="left" height="124px" width="124px" alt="PET Eng Comp" src="https://raw.githubusercontent.com/chamatt/chamatt/main/pet_logo.png?s=250"/>](https://pet.inf.ufes.br/)
