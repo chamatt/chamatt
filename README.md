@@ -43,6 +43,7 @@ App: The project is dead for now (due to the pandemic)
 Languages & Technologies: `Javascript`, `PHP`, `React`, `Redux`, `HTML`, `CSS` \
 <br/>
 <br/>
+<br/>
 
 Please find me on [LinkedIn](https://www.linkedin.com/in/roaldnefs/) for a more detailed description of my full work experience, education and certification.
 
