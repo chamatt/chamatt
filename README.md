@@ -47,4 +47,4 @@ Languages & Technologies: `Javascript`, `PHP`, `React`, `Redux`, `HTML`, `CSS` \
 
 Please find me on [LinkedIn](https://www.linkedin.com/in/roaldnefs/) for a more detailed description of my full work experience, education and certification.
 
-You can also check out my portfolio to know more about me and projects I've worked on: [chamatt.dev](chamatt.dev)
+You can also check out my portfolio to know more about me and projects I've worked on: [chamatt.dev](https://chamatt.dev)
