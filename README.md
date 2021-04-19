@@ -13,11 +13,11 @@ In the overview below you will find my most recent work experience:
 **FullStack Engineer** \
 [**Nextly.team**](https://nextly.team/) • [**Seeds.no**](https://nextly.team/) • Full-time \
 Languages & Technologies: `React`, `React Native`, `Apollo GraphQL`, `NextJS`, `Redux`, `Node.js`, `Cypress`, `Jest` \
-Featured Projects: [Palqee](https://www.palqee.com), [Vysta](https://www.getvysta.com/), [Descola](https://descola.org/)
+Featured Projects: [Palqee](https://www.palqee.com), [JobPixel](https://www.jobpixel.com/), [Descola](https://descola.org/), [Vysta](https://www.getvysta.com/) 
 <br/>
 <br/>
 
-[<img align="left" height="124px" width="124px" alt="Seeds.no" src="https://raw.githubusercontent.com/chamatt/chamatt/main/who_app_logo.png?s=200"/>](https://whoapp.com.br/)
+[<img align="left" height="124px" width="124px" alt="whoapp.com.br" src="https://raw.githubusercontent.com/chamatt/chamatt/main/who_app_logo.png?s=200"/>](https://whoapp.com.br/)
 
 **Mobile Developer** \
 [**WhoApp**](https://whoapp.com.br/) • Freelance \
@@ -27,7 +27,7 @@ App: In a few days ~[AppStore]() / [PlayStore]()~
 <br/>
 <br/>
 
-[<img align="left" height="124px" width="124px" alt="Seeds.no" src="https://raw.githubusercontent.com/chamatt/chamatt/main/ketchapp_logo.jpeg?s=200"/>](https://www.instagram.com/ketchapp_br/)
+[<img align="left" height="124px" width="124px" alt="ketchapp.com.br" src="https://raw.githubusercontent.com/chamatt/chamatt/main/ketchapp_logo.jpeg?s=200"/>](https://www.instagram.com/ketchapp_br/)
 
 **Mobile Developer** \
 [**Ketchapp Brasil**](https://www.instagram.com/ketchapp_br/) • Freelance \
