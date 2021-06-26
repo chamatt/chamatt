@@ -23,7 +23,7 @@ Featured Projects: [Palqee](https://www.palqee.com), [JobPixel](https://www.jobp
 [**WhoApp**](https://whoapp.com.br/) • Freelance \
 Description: A medical appointment scheduler app \
 Languages & Technologies: `React Native`, `Redux`, `Expo`\
-App: In a few days [AppStore](https://apps.apple.com/br/app/who/id1550534487) / [PlayStore](https://play.google.com/store/apps/details?id=br.com.whoapp)
+App: [AppStore](https://apps.apple.com/br/app/who/id1550534487) / [PlayStore](https://play.google.com/store/apps/details?id=br.com.whoapp)
 <br/>
 <br/>
 
