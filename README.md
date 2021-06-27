@@ -30,7 +30,7 @@ App: [AppStore](https://apps.apple.com/br/app/who/id1550534487) / [PlayStore](ht
 [<img align="left" height="124px" width="124px" alt="ketchapp.com.br" src="https://raw.githubusercontent.com/chamatt/chamatt/main/ketchapp_logo.jpeg?s=200"/>](https://www.instagram.com/ketchapp_br/)
 
 **Mobile Developer** \
-[**Ketchapp Brasil**](https://www.instagram.com/ketchapp_br/) • Freelance \
+**Ketchapp Brasil** • Freelance \
 Description: A restaurant ordering app \
 Languages & Technologies: `React`, `PWA`, `Firebase`\
 App: The project is dead for now (due to the pandemic)
