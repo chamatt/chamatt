@@ -1,12 +1,21 @@
 ### Hi there 👋
-- 🔭 I'm a full-stack developer currently working at [Nextly.team](https://nextly.team/)/[Seeds.no](https://seeds.no/) with over three years of experience.
-- 🌱 I've worked on several projects over the years for national and international clients, you can check out some of them at my [personal portfolio](https://chamatt.dev/#professional-projects).
-- ⚡ At my current job I work mainly with a React, React Native and Node.js stack, along with its frameworks (e.g. Next.js, Apollo, Adonis, etc). I also built up some experience in unit and integration testing using Jest + React Testing Library, and End-to-End testing using Cypress.
-- 💻 Besides my professional work, I take a personal interest in native iOS and MacOS development using SwiftUI.
+
+- 🔭 I'm a React Native Developer working at Clevertech
+- 🌱 I've worked on several projects over the years for national and international clients, you can check out some of them at my personal portfolio https://chamatt.dev
+- ⚡ At my current job I work mainly with a React, React Native along with its frameworks (e.g. Next.js, Apollo). I also have a lot of experience with unit testing using Jest + React Testing Library, and some experience with End-to-End testing using Cypress. 
+- 👨🏽‍💻 Besides my professional work, I take a personal interest in native iOS and MacOS development using SwiftUI.
 - 💬 You can get in touch with me on [LinkedIn](https://www.linkedin.com/in/matheusdelunardo/).
 
 ### Work Experience
 In the overview below you will find my most recent work experience:
+
+[<img align="left" height="124px" width="124px" alt="Seeds.no" src="https://raw.githubusercontent.com/chamatt/chamatt/main/clevertech_logo.jpeg"/>](https://clevertech.biz/)
+
+**React Native Developer** \
+[**Clevertech**](https://clevertech.biz/) • Full-time \
+Languages & Technologies: `React`, `React Native`, `Apollo GraphQL`, `GatsbyJS`, `Redux`, `Node.js`, `Cypress`, `Jest` 
+<br/>
+<br/>
 
 [<img align="left" height="124px" width="124px" alt="Seeds.no" src="https://raw.githubusercontent.com/chamatt/chamatt/main/seeds_logo.jpeg?s=250"/>](https://seeds.no/)
 
