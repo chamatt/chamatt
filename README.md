@@ -23,6 +23,7 @@ Languages & Technologies: `React`, `React Native`, `Apollo GraphQL`, `GatsbyJS`,
 [**Nextly.team**](https://nextly.team/) • [**Seeds.no**](https://nextly.team/) • Full-time \
 Languages & Technologies: `React`, `React Native`, `Apollo GraphQL`, `NextJS`, `Redux`, `Node.js`, `Cypress`, `Jest` \
 .
+.
 <br/>
 <br/>
 
