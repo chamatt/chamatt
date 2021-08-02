@@ -16,6 +16,7 @@ In the overview below you will find my most recent work experience:
 Languages & Technologies: `React`, `React Native`, `Apollo GraphQL`, `GatsbyJS`, `Redux`, `Node.js`, `Cypress`, `Jest` 
 <br/>
 <br/>
+<br/>
 
 [<img align="left" height="124px" width="124px" alt="Seeds.no" src="https://raw.githubusercontent.com/chamatt/chamatt/main/seeds_logo.jpeg?s=250"/>](https://seeds.no/)
 
@@ -23,7 +24,6 @@ Languages & Technologies: `React`, `React Native`, `Apollo GraphQL`, `GatsbyJS`,
 [**Nextly.team**](https://nextly.team/) • [**Seeds.no**](https://nextly.team/) • Full-time \
 Languages & Technologies: `React`, `React Native`, `Apollo GraphQL`, `NextJS`, `Redux`, `Node.js`, `Cypress`, `Jest` \
 
-<br/>
 <br/>
 <br/>
 <br/>
