@@ -22,7 +22,6 @@ Languages & Technologies: `React`, `React Native`, `Apollo GraphQL`, `GatsbyJS`,
 **FullStack Engineer** \
 [**Nextly.team**](https://nextly.team/) • [**Seeds.no**](https://nextly.team/) • Full-time \
 Languages & Technologies: `React`, `React Native`, `Apollo GraphQL`, `NextJS`, `Redux`, `Node.js`, `Cypress`, `Jest` \
-Featured Projects: [Palqee](https://www.palqee.com), [JobPixel](https://www.jobpixel.com/), [Descola](https://descola.org/), [Vysta](https://www.getvysta.com/) 
 <br/>
 <br/>
 
