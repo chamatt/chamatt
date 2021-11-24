@@ -1,13 +1,27 @@
 ### Hi there 👋
 
-- 🔭 I'm a React Native Developer working at Clevertech
+- 🔭 I'm a Software Engineer working at OysterHR to help companies hire the best talent in the world.
 - 🌱 I've worked on several projects over the years for national and international clients, you can check out some of them at my personal portfolio https://chamatt.dev
-- ⚡ At my current job I work mainly with a React, React Native along with its frameworks (e.g. Next.js, Apollo). I also have a lot of experience with unit testing using Jest + React Testing Library, and some experience with End-to-End testing using Cypress. 
+- ⚡ At my current job I work mainly with a React along with its frameworks (e.g. Next.js, Apollo). I also have a lot of experience with unit testing using Jest + React Testing Library, and some experience with End-to-End testing using Cypress and Capybara. 
 - 👨🏽‍💻 Besides my professional work, I take a personal interest in native iOS and MacOS development using SwiftUI.
 - 💬 You can get in touch with me on [LinkedIn](https://www.linkedin.com/in/matheusdelunardo/).
 
 ### Work Experience
 In the overview below you will find my most recent work experience:
+
+[<img align="left" height="124px" width="124px" alt="Seeds.no" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVQaUIZECC_CpQ_Fc8quOp-Sd438EGqZw1vYA7tiit4xdlp9TM2JhR2IReHBnpq4Lmyeo&usqp=CAU"/>](https://clevertech.biz/)
+
+
+
+**Software Engineer** \
+[**OysterHR**](https://www.oysterhr.com/) • Full-time \
+Languages & Technologies: `React`, `Apollo GraphQL`, `Jest`, `Capybara` 
+<br/>
+<br/>
+<br/>
+<br/>
+
+
 
 [<img align="left" height="124px" width="124px" alt="Seeds.no" src="https://raw.githubusercontent.com/chamatt/chamatt/main/clevertech_logo.jpeg"/>](https://clevertech.biz/)
 
@@ -17,6 +31,7 @@ Languages & Technologies: `React`, `React Native`, `Apollo GraphQL`, `GatsbyJS`,
 <br/>
 <br/>
 <br/>
+
 
 [<img align="left" height="124px" width="124px" alt="Seeds.no" src="https://raw.githubusercontent.com/chamatt/chamatt/main/seeds_logo.jpeg?s=250"/>](https://seeds.no/)
 
