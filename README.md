@@ -9,7 +9,7 @@
 ### Work Experience
 In the overview below you will find my most recent work experience:
 
-[<img align="left" height="124px" width="124px" alt="Seeds.no" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVQaUIZECC_CpQ_Fc8quOp-Sd438EGqZw1vYA7tiit4xdlp9TM2JhR2IReHBnpq4Lmyeo&usqp=CAU"/>](https://clevertech.biz/)
+[<img align="left" height="124px" width="124px" alt="OysterHR Logo" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVQaUIZECC_CpQ_Fc8quOp-Sd438EGqZw1vYA7tiit4xdlp9TM2JhR2IReHBnpq4Lmyeo&usqp=CAU"/>](https://www.oysterhr.com/)
 
 
 
