@@ -13,7 +13,7 @@ In the overview below you will find my most recent work experience:
 
 
 
-**Software Engineer** \
+**Senior Software Engineer** \
 [**OysterHR**](https://www.oysterhr.com/) • Full-time \
 Languages & Technologies: `React`, `Apollo GraphQL`, `Jest`, `Capybara` 
 <br/>
